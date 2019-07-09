@@ -1,0 +1,12 @@
+# 1884 - Traianopolis
+
+# County Title 
+title = c_traianopolis
+
+# Settlements
+max_settlements = 4
+b_traianopolis = tribal
+
+# Misc
+Culture = thracian
+religion = thracian_faith
