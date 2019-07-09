@@ -1,0 +1,14 @@
+# 497 - Thrake 
+
+# County Title
+c_thrake
+
+# Settlements
+max_settlements = 5
+b_odessos = tribal
+
+# Misc 
+culture = thracian
+religion = thracian_faith
+
+#History
