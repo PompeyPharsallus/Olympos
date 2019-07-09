@@ -1,0 +1,11 @@
+# 494 - Adrianopolis
+
+# County Title 
+title = c_adrianopolis
+
+# Settlements
+b_adrianopolis = tribal
+
+# Misc 
+culture = thracian
+religion = thracian_faith
