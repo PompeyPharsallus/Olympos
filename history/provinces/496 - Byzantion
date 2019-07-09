@@ -1,0 +1,19 @@
+# 496 - Constantinople #Former Byzantion
+
+# County Title
+title = c_byzantion
+
+# Settlements
+max_settlements = 7
+b_byza = city
+#b_hieron = city
+#b_deuteron = city
+#b_pempton = city
+
+#b_vlanga = castle
+
+# Misc
+culture = corinthian
+religion = greek_faith
+
+# History
