@@ -1,0 +1,15 @@
+# 497 - Thrake #Former Thracia
+
+# County Title
+title = c_thracia
+
+# Settlements
+
+b_lysimachia = tribal 
+
+# Misc 
+
+culture = thracian
+religion = thracian_faith
+
+# History
