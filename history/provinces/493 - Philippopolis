@@ -1,0 +1,14 @@
+# 493 - Philippolis
+
+# County Title
+title = c_philippopolis
+
+# Settlements
+max_settlements = 3
+
+b_philippopolis = tribal
+
+# Misc 
+culture = thracian
+religion = thracian_faith
+
