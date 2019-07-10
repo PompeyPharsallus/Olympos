@@ -1,0 +1,12 @@
+# 1885 - Maroneia
+
+# County Title
+title = c_maroneia
+
+# Settlements
+max_settlements = 3
+b_maroneia = tribal
+
+# Misc
+culture = thracian
+religion = thracian_faith
