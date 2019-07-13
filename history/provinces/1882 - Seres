@@ -1,11 +1,12 @@
 # 1882 - Seres #Former Amphipolis
 
 # County Title
-title = c_amphipolis
+title = c_seres
 
 # Settlements
 max_settlements = 5
 b_amphipolis = city
+b_xantheia = temple
 
 # Misc
 culture = thracian
